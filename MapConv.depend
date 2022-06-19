@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1557005723 source:d:\games\nintendo\gameboy\tiledconverter\mapconv\xml.c
+	<alloca.h>
+	<ctype.h>
+	<malloc.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	"xml.h"
+
+1557008781 d:\games\nintendo\gameboy\tiledconverter\mapconv\xml.h
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	<stdio.h>
+
+1619496441 source:d:\games\nintendo\gameboy\tiledconverter\mapconv\tiledread.c
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	"yxml.h"
+	"formats.h"
+
+1557005723 d:\games\nintendo\gameboy\tiledconverter\mapconv\xml.c
+	<alloca.h>
+	<ctype.h>
+	<malloc.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	"xml.h"
+
+1558758212 d:\games\nintendo\gameboy\tiledconverter\mapconv\formats.h
+	<stdio.h>
+	<stdint.h>
+
+1558907463 source:d:\games\nintendo\gameboy\tiledconverter\mapconv\gbwrite.c
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	"formats.h"
+
+1557201678 source:d:\games\nintendo\gameboy\tiledconverter\mapconv\main.c
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	"formats.h"
+
+1557192186 source:d:\games\nintendo\gameboy\tiledconverter\mapconv\yxml.c
+	"yxml.h"
+	<string.h>
+
+1557191292 d:\games\nintendo\gameboy\tiledconverter\mapconv\yxml.h
+	<stdint.h>
+	<stddef.h>
+
+1587706990 source:d:\games\nintendo\gameboy\tiledconverter\mapconv\rawwrite.c
+	<stdlib.h>
+	<string.h>
+	"formats.h"
+
+1587703390 source:d:\games\nintendo\gameboy\tiledconverter\mapconv\flatwrite.c
+	<stdlib.h>
+	<string.h>
+	"formats.h"
+
+1613639684 source:d:\games\nintendo\gameboy\tiledconverter\mapconv\lzwrite.c
+	<stdlib.h>
+	<string.h>
+	"formats.h"
+
